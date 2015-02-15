@@ -1,0 +1,4 @@
+c:\users\deathdozer\documents\visual studio 2012\Projects\GameLogic\GameLogic\bin\Debug\GameLogic.dll
+c:\users\deathdozer\documents\visual studio 2012\Projects\GameLogic\GameLogic\bin\Debug\GameLogic.pdb
+c:\users\deathdozer\documents\visual studio 2012\Projects\GameLogic\GameLogic\obj\Debug\GameLogic.dll
+c:\users\deathdozer\documents\visual studio 2012\Projects\GameLogic\GameLogic\obj\Debug\GameLogic.pdb
